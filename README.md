@@ -4,5 +4,5 @@ For å kunne bruke disse filene på en god måte vil jeg anbefale å bruke AntCo
 AntConc er Freeware, og det er mange gode guides på nettet for hvordan det brukes. 
 
 Følgende partier er nå blitt slått sammen til felles korpus:
-AP, MDG, Rødt og SV -> Venstre - Sentrum
-Høyre, KRF, SP og Venstre -> Sentrum - Høyre
+AP, MDG, Rødt og SV -> Sosialistisk - Sentrum
+Høyre, KRF, SP, FRP og Venstre -> Sentrum - Borgerlig
